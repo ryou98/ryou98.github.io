@@ -1,4 +1,4 @@
-rz# Welcome to Jekyll!
+# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -9,7 +9,7 @@ rz# Welcome to Jekyll!
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Runze You 尤润泽"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,19 +22,19 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "yrz.png"
-  name             : "Runze You 尤润泽"
+  avatar           : "profile.png"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. in CUHK(SZ)"
-  location         : "Shenzhen"
-  employer         : # "Red Brick University"
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
-  email            : "runzeyou@link.cuhk.edu.cn" 
+  email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=iRzMcBsAAAAJ&hl=en&authuser=1&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/ryou98"
+  github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
